@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 a="hudson"
 b="2005"
 c="java"
